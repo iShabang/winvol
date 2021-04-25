@@ -1,0 +1,1 @@
+cl.exe /EHsc /O2 winvol.cpp
