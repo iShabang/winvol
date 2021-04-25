@@ -122,8 +122,6 @@ int main(int argc, char *argv[]) {
         return -1;
     }
 
-    std::cout << "Master volume set to " << arg_volume << std::endl;
-
     CoUninitialize();
     return 0;
 }
